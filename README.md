@@ -1,2 +1,2 @@
-# Alura - Adobe XD: Design Visual de um Site Mobile
+# Alura - Formação Design e UX
 N/A
